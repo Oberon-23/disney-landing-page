@@ -61,3 +61,10 @@ $ cd projeto-disney-plus-clone
 - Pratiquei boas práticas de HTML e CSS
 
 - Implementei interatividade básica com JavaScript
+
+---
+
+## Autor
+
+Desenvolvido por Breno Silva
+
