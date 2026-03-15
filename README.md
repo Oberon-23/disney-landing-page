@@ -1,70 +1,90 @@
-<div align="center"> 
-  <img width="256" height="256" src="https://img.icons8.com/color/512/disney-logo.png" alt="disney-logo" />
-</div>
+<div align="center">
 
 # 🎬 Disney+ Clone
 
-![Status](https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> *"All our dreams can come true, if we have the courage to pursue them."* – Walt Disney
+
+[![Status](https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge)](https://clone-disneyplus-red-alpha.vercel.app)
+[![Deploy](https://img.shields.io/badge/DEPLOY-Vercel-black?style=for-the-badge&logo=vercel)](https://clone-disneyplus-red-alpha.vercel.app)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+</div>
 
 ---
 
-## Sobre o Projeto
+## 🌐 Preview
 
-O **Disney+ Clone** é um projeto desenvolvido com o objetivo de **replicar a interface da famosa plataforma de streaming**.  
-O foco foi em **design responsivo, usabilidade e fidelidade visual**, garantindo uma experiência próxima ao Disney+ original.
-
----
-
-## Funcionalidades
-
-- 🎞️ **Página inicial** simulando a interface principal (banners, categorias, cards de filmes)  
-- 📱 **Design responsivo** para desktop, tablets e dispositivos móveis  
-- 🎨 **Estilo moderno** com transições suaves e cores próximas à paleta oficial  
+🔗 **[Acesse o projeto ao vivo →](https://clone-disneyplus-red-alpha.vercel.app)**
 
 ---
 
-## Tecnologias Utilizadas
+## 📌 Sobre o Projeto
 
-- 🟠 **HTML5** – Estrutura semântica  
-- 🔵 **CSS3** – Estilização e design responsivo (Flexbox + Grid)  
-- 💛 **JavaScript (ES6+)** – Interatividade e manipulação do DOM  
-- ✍️ **Google Fonts** – Tipografia moderna e elegante  
+Clone da interface da plataforma **Disney+**, desenvolvido com foco em **design responsivo, fidelidade visual e usabilidade**. O projeto replica banners, categorias e cards de conteúdo da plataforma original.
 
 ---
 
-## Como Executar o Projeto
+## ✨ Funcionalidades
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/Oberon-23/projeto-disney-plus-clone.git
+- 🎞️ Página inicial com banners, categorias e cards de filmes
+- 📱 Design **100% responsivo**
+- 🎨 Paleta e estilo próximos à plataforma oficial
+- ⚡ Transições e animações suaves
+- 🔧 Build automatizado com **Gulp**
 
-# Acesse a pasta
-$ cd projeto-disney-plus-clone
+---
 
-# Abra o index.html no navegador
-# (Clique duas vezes no arquivo ou use a extensão Live Server no VSCode)
+## 🛠️ Tecnologias
+
+| Tecnologia | Uso |
+|------------|-----|
+| HTML5 | Estrutura semântica |
+| SCSS | Estilização modular e responsiva |
+| JavaScript ES6+ | Interatividade e DOM |
+| Gulp | Automação de build |
+| Google Fonts | Tipografia |
+
+---
+
+## 📁 Estrutura
+```
+disney-landing-page/
+├── assets/fonts/  # Tipografia
+├── src/           # Código fonte
+├── index.html     # Página principal
+└── gulpfile.js    # Automação de build
 ```
 
---- 
+---
 
-## Aprendizados
-
-### Durante o desenvolvimento:
-
-- Aprimorei habilidades com CSS Grid e Flexbox
-
-- Apliquei design responsivo em diferentes dispositivos
-
-- Pratiquei boas práticas de HTML e CSS
-
-- Implementei interatividade básica com JavaScript
+## 🚀 Como Executar
+```bash
+git clone https://github.com/Oberon-23/disney-landing-page.git
+cd disney-landing-page
+npm install
+npm start
+```
 
 ---
 
-## Autor
+## 📚 Aprendizados
 
-Desenvolvido por Breno Silva
+- SCSS para estilização modular e escalável
+- Automação de build com Gulp
+- Responsividade avançada com múltiplos breakpoints
+- Fidelidade visual aplicada na recriação de interfaces reais
 
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+**Breno Silva Barros Rangel**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brenosilvarangel)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oberon-23)
+
+</div>
